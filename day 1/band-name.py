@@ -1,0 +1,5 @@
+city_name = input("What is your city name? ")
+#print("what is your city name" )
+pet = input("What is your pet name? ")
+#print("what is your city name" )
+print(city_name + " " + pet)
